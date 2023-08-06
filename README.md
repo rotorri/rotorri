@@ -1,8 +1,12 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frotorri&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Welcome%21&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 안녕하세요!
+
 
 로토리([@the_rotorri](https://twitter.com/the_rotorri)) 입니다.
 
 잘 부탁드립니다!
+
+<img src="https://github-readme-stats.vercel.app/api?username=rotorri&show_icons=true">
 
 ## 레포지토리
 - **Roll20-CustomSheet-Publish** (전체공개)
