@@ -1,4 +1,4 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frotorri&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Welcome%21&edge_flat=false)
+[![Welcome!](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Frotorri?color=green&label=Welcome%21&size=medium&base_count=20000)](https://myhits.vercel.app)
 ### 안녕하세요!
 
 
@@ -6,7 +6,7 @@
 
 잘 부탁드립니다!
 
-<img src="https://github-readme-stats.vercel.app/api?username=rotorri&show_icons=true">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rotorri)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 레포지토리
 - **Roll20-CustomSheet-Publish** (전체공개)
