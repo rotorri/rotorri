@@ -1,12 +1,9 @@
 [![Welcome!](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Frotorri?color=green&label=Welcome%21&size=medium&base_count=20000)](https://myhits.vercel.app)
 ### 안녕하세요!
 
-
 로토리([@the_rotorri](https://twitter.com/the_rotorri)/[@rotorri.com](https://bsky.app/profile/rotorri.com)) 입니다.
 
 잘 부탁드립니다!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rotorri)](https://github.com/rotorri/github-readme-stats)
 
 ## 레포지토리
 - **Roll20-CustomSheet-Publish** (전체공개)
