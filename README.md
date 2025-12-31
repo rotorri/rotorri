@@ -6,7 +6,7 @@
 
 잘 부탁드립니다!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rotorri)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rotorri)](https://github.com/rotorri/github-readme-stats)
 
 ## 레포지토리
 - **Roll20-CustomSheet-Publish** (전체공개)
